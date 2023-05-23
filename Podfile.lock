@@ -1,0 +1,24 @@
+PODS:
+  - ACFloatingTextfield-Objc (1.9)
+  - SkyFloatingLabelTextField (3.8.0)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - ACFloatingTextfield-Objc (~> 1.8)
+  - SkyFloatingLabelTextField (~> 3.0)
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - ACFloatingTextfield-Objc
+    - SkyFloatingLabelTextField
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  ACFloatingTextfield-Objc: 1c3d33e90af7dd274eff508f0082fad12f2eeb72
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 07d63ad40ea407354961d0e2eb48dd2c3f0abc55
+
+COCOAPODS: 1.12.1
